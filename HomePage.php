@@ -1,7 +1,7 @@
 
 <!doctype html>
 <html>
-<p id="nutt">IT IS ME</p>
+<p id="YES">IT IS ME</p>
 
 <!--START OF FORM HTML-->
 <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
